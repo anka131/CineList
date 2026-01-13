@@ -95,7 +95,8 @@ This project was built to practice real-world full-stack development, including 
 - Improve accessibility
 
 
-👤 Author
+
+## 👤 Author
 
 Anka Knežević
 Junior Frontend / Full-Stack Developer
