@@ -68,5 +68,36 @@ This project was built to practice real-world full-stack development, including 
 ![Watched](./README-assets/watched.png)
 
 ---
+## 🚀 Live Demo
+
+- Frontend: (https://cine-list-six-delta.vercel.app/login)
+- Backend API: (https://mycinelist-00b6.onrender.com/api)
+- Backend repository: (https://github.com/anka131/MyCineList)
+
+---
+
+## 🧠 What I Learned
+
+- Implementing JWT authentication in a full-stack application
+- Protecting backend routes using middleware
+- Managing user-specific data (favorites and ratings)
+- Connecting frontend and backend using REST APIs
+- Handling loading and error states in React
 
 
+---
+
+## 🔮 Possible Improvements
+
+- Add TypeScript
+- Add unit and integration tests
+- Implement movie recommendations
+- Improve accessibility
+
+
+👤 Author
+
+Anka Knežević
+Junior Frontend / Full-Stack Developer
+
+GitHub: https://github.com/anka131
