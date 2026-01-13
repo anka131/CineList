@@ -53,3 +53,20 @@ This project was built to practice real-world full-stack development, including 
 
 ---
 
+## 📸 Screenshots
+
+### Login
+![Login](./README-assets/login.png)
+
+### Home
+![Home](./README-assets/home.png)
+
+### Rating
+![Rating](./README-assets/rating.png)
+
+### Watched
+![Watched](./README-assets/watched.png)
+
+---
+
+
