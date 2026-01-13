@@ -99,6 +99,7 @@ This project was built to practice real-world full-stack development, including 
 ## 👤 Author
 
 Anka Knežević
+
 Junior Frontend / Full-Stack Developer
 
 GitHub: https://github.com/anka131
