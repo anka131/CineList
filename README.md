@@ -56,7 +56,7 @@ This project was built to practice real-world full-stack development, including 
 ## 📸 Screenshots
 
 ### Login
-![Login](./README-assets/login.png)
+![Login](./README-assets/Login.png)
 
 ### Home
 ![Home](./README-assets/home.png)
